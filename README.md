@@ -5,7 +5,7 @@
 </div>  
 
 <div align="center">  
-<a href="https://aktautouta.github.io/.github/smartsvn">  
+<a href="https://salidorandee.github.io/.github/smartsvn-client-version">  
 <img src="https://img.shields.io/badge/Get_SmartSVN-darkgreen?style=for-the-badge&logo=apple" alt="Get SmartSVN">  
 </a>  
 </div>  
